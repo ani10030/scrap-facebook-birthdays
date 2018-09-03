@@ -1,12 +1,12 @@
 # scrap-facebook-birthdays
 <p>
 A bunch of Python scripts to perform the task in the order as below :<br>
-<span style="margin-left: 25px;">1. Scrap Facebook, fetch my facebook friend birthdays and insert into database.</span><br>
-<span style="margin-left: 25px;">2. Fetch birthdays from database and send SMS reminder</span><br>
-<span style="margin-left: 25px;">3. Send SMS reminder for today's birthday(s)</span>
+1. Scrap Facebook, fetch my facebook friend birthdays and insert into database.<br>
+2. Fetch birthdays from database and send SMS reminder<br>
+3. Send SMS reminder for today's birthday(s)
 </p>
 <p>
-<b>import_birthdays.py</b> 	:	Script to import birthday data from Facebook<br>
+<b>import_birthdays.py</b>		:	Script to import birthday data from Facebook<br>
 <b>birthday_reminder.py</b> 	:	Script to check for todays' birthdays and notify user with SMS<br>
 </p>
 <p>
@@ -16,7 +16,7 @@ Example Usage : <pre>pip install requests</pre>
 </p>
 <p>
 Libraries Used :<br>
-<span style="margin-left: 25px;">1. MySQLdb</span><br>
-<span style="margin-left: 25px;">2. requests</span><br>
-<span style="margin-left: 25px;">3. smtplib</span><br>
+1. MySQLdb<br>
+2. requests<br>
+3. smtplib<br>
 </p>
