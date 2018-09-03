@@ -1,5 +1,5 @@
 # scrap-facebook-birthdays
-A bunch of Python scripts to perform the task in the order as below :
+A bunch of Python scripts to perform the task in the order as below :<br>
 	1. Scrap Facebook, fetch my facebook friend birthdays and insert into database.
 	2. Fetch birthdays from database and send SMS reminder
 	3. Send a SMS reminder for today's birthday(s)
