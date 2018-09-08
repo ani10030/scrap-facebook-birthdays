@@ -7,6 +7,7 @@ A bunch of Python scripts to perform the task in the order as below :<br>
 </p>
 <p>
 <b>import_birthdays.py</b>		:	Script to import birthday data from Facebook<br>
+Note : You will need to get the URL for your Facebook account's calendar file. <em><a href="https://www.anirudhsethi.in/blog/tech/import-facebook-birthdays-as-calendar/">Click here to know how to retrieve your calendar file.</a></em><br>
 <b>birthday_reminder.py</b> 	:	Script to check for todays' birthdays and notify user with SMS<br>
 </p>
 <p>
